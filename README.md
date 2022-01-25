@@ -11,7 +11,7 @@ https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt
 
 Below is a screen shot of a spark dataframe showing the results of this analysis.
 
-![spark_results_dataframe.png](https://github.com/charliuden/Amazon_Vine_Analysis/blob/main/screen_shots/spark_results_dataframe.png)
+![spark_results_dataframe.png](https://github.com/charliuden/Amazon_Vine_Analysis/blob/main/screen_shots/spark_results_datafram.png)
 
 How many Vine reviews and non-Vine reviews were there?
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
